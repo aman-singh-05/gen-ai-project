@@ -5,6 +5,9 @@
     padding-inline: 1.5rem;
     padding-block: 0.75rem;
     border-radius: 1rem;
+    cursor : pointer;
+
+    transition: 0.2s ease-in-out;
 
     &.primary-button{
         background-color: #cf056a;
